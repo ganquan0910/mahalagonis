@@ -7,7 +7,7 @@ qtHaveModule(widgets) {
 #include(src.pri)
 
 SOURCES += \
-    source/main.cc
+    source/main.cpp
 
 OTHER_FILES += \
     qml/main.qml
